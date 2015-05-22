@@ -19,6 +19,7 @@ The YunClient folder includes a YunClient.ino file. The .ino can to uploaded to 
 Guide to setup
 
 Setup or Arduino/robot (Client side);
+
 1. Connect the power to Arduino / robot, and access its wireless network with computer.
 2. Set arduino to connect a shared network, for example a phone hotspot, that all robots and server connect to.
 3. Connect the computer to the shared network.
