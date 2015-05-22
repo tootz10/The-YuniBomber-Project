@@ -10,7 +10,7 @@ Gamerules:
 ## NodeServer.js - nodejs
 The NodeServer.js file is, as the filename omplies, a nodejs server. NodeServer.js is used to handle the data communication between the connected Arduino Yuns.
 
-Setup of Server;
+Setup of Server;  
 Comming soon!
 
 ## YunClient - arduino
